@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib (2)">
+    <CLASSES>
+      <root url="file://C:/ehcache/hibernate-demo6/WebContent/WEB-INF/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/ehcache/hibernate-demo6/WebContent/WEB-INF/lib" recursive="false" />
+  </library>
+</component>
